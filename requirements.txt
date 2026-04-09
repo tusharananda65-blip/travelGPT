@@ -1,5 +1,4 @@
 streamlit
-
 langchain
 langchain-community
 langchain-core
@@ -7,9 +6,8 @@ langchain-text-splitters
 langchain-chroma
 langchain-huggingface
 langchain-groq
-
 sentence-transformers
 chromadb
-
 numpy
 pysqlite3-binary
+protobuf==3.20.3
