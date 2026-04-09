@@ -11,7 +11,8 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
-
+import os
+os.environ["ANONYMIZED_TELEMETRY"] = "False"
 
 # Load and split documents
 @st.cache_resource
