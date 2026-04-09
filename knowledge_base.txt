@@ -1,0 +1,231 @@
+=======================================================
+CHAPTER I: OVERVIEW AND DEFINITIONS
+=======================================================
+OVERVIEW
+
+The Travel Guide AI Knowledge Base is designed to help users plan trips, explore destinations, and make informed decisions regarding travel logistics such as accommodation, transportation, budgeting, and activities.
+
+It applies to all types of travel including leisure, business, solo, and group travel.
+
+WHAT IS A TRAVELER?
+
+A traveler is any person who:
+
+Plans or undertakes a journey for leisure, business, education, or personal purposes
+Seeks information about destinations, logistics, or experiences
+TYPES OF TRAVELERS:
+Solo traveler
+Family traveler
+Budget traveler
+Luxury traveler
+Backpacker
+WHAT IS A TRAVEL PLAN?
+
+A travel plan is a structured outline of a trip that includes:
+
+Destination(s)
+Duration
+Budget
+Accommodation
+Transportation
+Activities
+WHAT IS AN ITINERARY?
+
+An itinerary is a day-wise schedule of a trip including:
+
+Places to visit
+Travel timings
+Activities
+Rest periods
+KEY DEFINITIONS
+Destination: A place where a traveler intends to visit
+Accommodation: A place where a traveler stays (hotel, hostel, Airbnb, etc.)
+Transportation: Means used to travel (flight, train, bus, etc.)
+Activity: Any experience or task performed during travel (sightseeing, adventure, etc.)
+Budget Travel: Travel focused on minimizing expenses
+Luxury Travel: Travel focused on comfort and premium experiences
+=======================================================
+CHAPTER II: COMPONENTS OF TRAVEL
+=======================================================
+DESTINATION
+
+Types of destinations include:
+
+Cities
+Natural locations (beaches, mountains)
+Cultural/historical sites
+TRANSPORTATION
+
+Modes of transportation:
+
+Flights
+Trains
+Buses
+Rental vehicles
+FACTORS TO CONSIDER:
+Cost
+Travel time
+Comfort
+Availability
+ACCOMMODATION
+
+Types of accommodation:
+
+Hotels
+Hostels
+Resorts
+Vacation rentals
+FACTORS:
+Budget
+Location
+Amenities
+Reviews
+ACTIVITIES
+
+Examples:
+
+Sightseeing
+Adventure sports
+Cultural exploration
+Food experiences
+FOOD AND DINING
+
+Includes:
+
+Local cuisine
+Restaurants
+Street food
+=======================================================
+CHAPTER III: TRAVEL PLANNING
+=======================================================
+HOW TO PLAN A TRIP
+STEP 1 – SELECT DESTINATION
+Based on interest, budget, and time
+STEP 2 – DECIDE DURATION
+Short: 2–3 days
+Medium: 5–7 days
+Long: 10+ days
+STEP 3 – SET BUDGET
+Estimate total cost
+STEP 4 – BOOK TRANSPORT & STAY
+Compare options
+STEP 5 – PLAN ACTIVITIES
+Prioritize must-visit places
+STEP 6 – FINAL CHECK
+Documents
+Weather
+Local guidelines
+ITINERARY STRUCTURE
+
+A good itinerary includes:
+
+Day-wise planning
+Travel time between locations
+Buffer time
+Backup options
+=======================================================
+CHAPTER IV: BUDGETING AND COSTS
+=======================================================
+TRAVEL COST COMPONENTS
+Transportation
+Accommodation
+Food
+Activities
+Miscellaneous
+TYPES OF TRAVEL BUDGET
+Budget travel
+Mid-range travel
+Luxury travel
+=======================================================
+CHAPTER V: BEST TIME TO TRAVEL
+=======================================================
+
+Depends on:
+
+Weather conditions
+Tourist seasons
+Festivals
+TYPES OF SEASONS:
+Peak season → high cost, crowded
+Off-season → low cost, less crowded
+Shoulder season → balanced
+=======================================================
+CHAPTER VI: SAFETY AND GUIDELINES
+=======================================================
+SAFETY GUIDELINES
+
+Travelers should:
+
+Keep documents secure
+Avoid unsafe areas
+Follow local laws
+Maintain emergency contacts
+CULTURAL ETIQUETTE
+
+Important aspects:
+
+Dress codes
+Respect traditions
+Basic local language
+Social norms
+=======================================================
+CHAPTER VII: TRAVEL DOCUMENTS
+=======================================================
+REQUIRED DOCUMENTS
+Passport
+Visa (if required)
+Tickets
+Hotel bookings
+=======================================================
+CHAPTER VIII: COMMON TRAVEL ISSUES
+=======================================================
+COMMON PROBLEMS
+Flight delays
+Lost luggage
+Overbooking
+Tourist scams
+SOLUTIONS
+Contact service providers
+Use travel insurance
+Keep document backups
+=======================================================
+CHAPTER IX: FREQUENTLY ASKED QUESTIONS
+=======================================================
+Q: What is the best time to travel?
+
+A: It depends on weather, crowd levels, and local events.
+
+Q: How can I travel on a low budget?
+
+A:
+
+Use public transport
+Stay in hostels
+Travel in off-season
+Q: How do I choose accommodation?
+
+A:
+
+Based on budget
+Location
+Reviews
+Q: What should I pack?
+
+A:
+
+Weather-appropriate clothes
+Documents
+Essentials
+Q: Is travel insurance necessary?
+
+A: Recommended, especially for international trips.
+
+=======================================================
+CHAPTER X: AI AGENT INTENTS (OPTIONAL)
+=======================================================
+USER INTENTS
+Plan my trip
+Best places in [location]
+Budget travel tips
+Things to do in [location]
+Food recommendations
